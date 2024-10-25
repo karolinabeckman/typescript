@@ -10,4 +10,18 @@
 // import './tipos/uniao'
 // import "./tipos/never";
 // import "./tipos/null";
-import "./tipos/desafio_final";
+// import "./tipos/desafio_final";
+// import "./oo/classe_1";
+// import "./oo/classe_2";
+// import "./oo/classe_3";
+// import "./oo/desafio_estatico";
+// import "./interfaces/usuario";
+// import "./interfaces/flexivel";
+// import "./interfaces/funcao";
+// import "./pilares_oo/encapsulamento";
+// import "./pilares_oo/heranca_01";
+// import "./pilares_oo/heranca_02";
+// import "./pilares_oo/heranca_03";
+// import "./pilares_oo/heranca_04";
+// import "./pilares_oo/heranca_05";
+import "./pilares_oo/polimorfismo";
